@@ -1,0 +1,704 @@
+# Norwegian translations for PROJECT.
+# Copyright (C) 2013 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2013.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2013-09-14 20:55+0200\n"
+"PO-Revision-Date: 2013-08-14 10:20-0700\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: no <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 1.3\n"
+
+#: modules/course_explorer/views/base_explorer.html:27
+msgid "Explore Courses"
+msgstr "Utforsk kurs"
+
+#: modules/course_explorer/views/base_explorer.html:32
+#: views/base_course.html:68
+msgid "My Courses"
+msgstr "Mine kurs"
+
+#: modules/course_explorer/views/base_explorer.html:37
+#: views/base_course.html:73
+msgid "Profile"
+msgstr "Profil"
+
+#: modules/course_explorer/views/course_explorer.html:16
+#: modules/course_explorer/views/profile.html:49
+msgid "View score"
+msgstr "Se poengsum"
+
+#: modules/course_explorer/views/course_explorer.html:21
+msgid "Go to course"
+msgstr "Gå til kurset"
+
+#: modules/course_explorer/views/course_explorer.html:26
+#: views/registration_module.html:7 views/registration_module.html:15
+msgid "Register"
+msgstr "Registrering"
+
+#: modules/course_explorer/views/course_explorer.html:39
+msgid "You are not currently enrolled in any courses."
+msgstr "Du er ikke påmeldt noen kurs."
+
+#: modules/course_explorer/views/course_explorer.html:45
+msgid "View course list."
+msgstr "Se kurslisten."
+
+#: modules/course_explorer/views/profile.html:5
+msgid "Student Profile for"
+msgstr "Studentprofil for"
+
+#: modules/course_explorer/views/profile.html:16
+#: views/student_data_table.html:21
+msgid "Name"
+msgstr "Navn"
+
+#: modules/course_explorer/views/profile.html:21
+#: views/student_data_table.html:15
+msgid "Email"
+msgstr "E-post"
+
+#: modules/course_explorer/views/profile.html:29
+msgid "Enrolled Courses"
+msgstr "Kurs du er påmeldt"
+
+#: modules/course_explorer/views/profile.html:44 views/base_course.html:80
+msgid "Progress"
+msgstr "Fremdrift"
+
+#: modules/course_explorer/views/profile.html:54
+msgid "Withdraw"
+msgstr "Meld deg av"
+
+#: modules/course_explorer/views/profile.html:67 views/student_profile.html:29
+msgid "New Name"
+msgstr "Nytt navn"
+
+#: modules/course_explorer/views/profile.html:78 views/student_profile.html:39
+msgid "Change Name"
+msgstr "Endre navn"
+
+#: views/activity.html:5 views/activity.html:29 views/unit.html:5
+#: views/unit.html:35
+msgid "Unit"
+msgstr "Kursdel"
+
+#: views/activity.html:25 views/base_course.html:7 views/base_course.html:39
+#: views/unit.html:32
+msgid "Course"
+msgstr "Kurs"
+
+#: views/activity.html:34 views/unit.html:38
+msgid "Lesson"
+msgstr "Leksjon"
+
+#: views/activity.html:36 views/lesson_navbar.html:85
+#: views/lesson_navbar.html:89 views/lesson_navbar.html:121
+msgid "Activity"
+msgstr "Aktivitet"
+
+#: views/activity.html:41 views/course.html:142 views/preview.html:34
+#: views/unit.html:44
+#, python-format
+msgid "Unit %(id)s - %(title)s"
+msgstr "Enhet %(id)s – %(title)s"
+
+#: views/activity.html:55 views/unit.html:59
+msgid "This unit does not contain any lessons."
+msgstr "Denne denne kursdelen har foreløpig ingen leksjoner."
+
+#: views/activity.html:84 views/unit.html:83
+msgid "Text Version"
+msgstr "Tekstversjon"
+
+#: views/activity.html:103 views/unit.html:125
+msgid "This lesson is not available."
+msgstr "Denne leksjonen er ikke tilgjengelig."
+
+#: views/activity.html:114 views/unit.html:135
+msgid "Previous Page"
+msgstr "Forrige side"
+
+#: views/activity.html:120 views/unit.html:141
+msgid "Next Page"
+msgstr "Neste side"
+
+#: views/activity.html:123 views/unit.html:144
+msgid "End"
+msgstr "Slutt"
+
+#: views/announcements.html:5 views/base_course.html:35
+msgid "Announcements"
+msgstr "Kunngjøringer"
+
+#: views/announcements.html:25
+msgid "No announcements yet."
+msgstr "Ingen kunngjøringer foreløpig."
+
+#: views/assessment.html:5
+msgid "Assessment"
+msgstr "Prøve"
+
+#: views/assessment.html:44
+#, python-format
+msgid ""
+"The due date for submitting this assignment has passed. It was due on "
+"%(submission_due_date)s."
+msgstr ""
+"Fristen for å sende inn denne oppgaven har utløpt. Fristen var "
+"%(submission_due_date)s."
+
+#: views/assessment.html:49
+msgid "Due date for this assignment: "
+msgstr "Frist for denne oppgaven: "
+
+#: views/assessment.html:59
+msgid ""
+"You may only submit this assignment once. After you submit it, the "
+"assignment will become read-only, and you will not be able to modify your"
+" answers. The answers you submit here will be reviewed by your peers."
+msgstr ""
+"Du kan bare sende inn denne oppgaven én gang. Når du har sendt den inn, "
+"blir den skrivebeskyttet, og du kan ikke endre svarene dine. Svarene du "
+"sender inn blir vurdert av andre studenter."
+
+#: views/assessment.html:73
+msgid "Submitted assignment"
+msgstr "Innsendt oppgave"
+
+#: views/assessment.html:88
+msgid "Reviews received"
+msgstr "Mottatte vurderinger"
+
+#: views/assessment.html:95
+msgid ""
+"After you have completed the required number of peer reviews for this "
+"assignment, the reviews you have received will appear here."
+msgstr ""
+"Når du har fullført de påkrevde vurderingene for denne oppgaven, vises "
+"vurderingene du har mottatt her."
+
+#: views/assessment.html:102
+msgid "Go to the review dashboard"
+msgstr "Gå til vurderingsoversikten"
+
+#: views/assessment.html:107
+msgid "You have not received any peer reviews yet."
+msgstr "Du har ikke fått noen vurderinger fra andre studenter ennå."
+
+#: views/assessment_html_content.html:26 views/base.html:40
+msgid " Save Draft "
+msgstr " Lagre utkast "
+
+#: views/assessment_html_content.html:29 views/base.html:52
+msgid " Submit Review "
+msgstr " Send inn vurdering "
+
+#: views/assessment_html_content.html:37 views/base.html:28
+msgid " Check Answers "
+msgstr " Sjekk svar "
+
+#: views/assessment_html_content.html:44 views/base.html:44
+msgid " Submit Answers "
+msgstr " Send inn svar "
+
+#: views/base.html:24
+msgid " Check Answer "
+msgstr " Sjekk svaret "
+
+#: views/base.html:32
+msgid " Skip and Show Answer "
+msgstr " Hopp over og vis svaret "
+
+#: views/base.html:36
+msgid " Save Answers "
+msgstr " Lagre svar "
+
+#: views/base.html:48
+msgid " Submit Assignment "
+msgstr " Send inn oppgaven "
+
+#: views/base.html:56
+msgid " Please click one of the buttons for your answer. "
+msgstr " Klikk på en av knappene for å få svaret ditt. "
+
+#: views/base.html:60
+msgid " All your answers are correct! "
+msgstr " Alle svarene dine er riktige! "
+
+#: views/base.html:64
+msgid " Number of questions you answered correctly "
+msgstr " Antall spørsmål du svarte riktig på "
+
+#: views/base.html:68
+msgid " You received a score on this assessment of "
+msgstr " Poengsummen du fikk på denne prøven er "
+
+#: views/base.html:72
+msgid " Here are lessons you could review to improve your score "
+msgstr " Leksjonene du kan gjennomgå for å forbedre poengsummen din er "
+
+#: views/base.html:76
+msgid ""
+" Congratulations! Press the \\'Submit Answers\\' button to submit your "
+"grade. "
+msgstr ""
+" Gratulerer! Trykk på \\Send inn svar\\-knappen for å sende inn "
+"karakteren din. "
+
+#: views/base.html:80
+msgid ""
+" Press the \\'Submit Answers\\' button below to save your scores. You can"
+" also edit your answers above before clicking \\'Submit Answers\\'. "
+msgstr ""
+" Trykk på \\Send inn svar\\-knappen nedenfor for å lagre poengsummen din."
+" Du kan også endre svarene dine ovenfor før du på klikker på \\Send inn "
+"svar\\. "
+
+#: views/base.html:84
+msgid " Are you sure you want to submit this assignment? "
+msgstr " Er du sikker på at du vil sende inn denne oppgaven? "
+
+#: views/base.html:88
+msgid " Are you sure you want to submit this review? "
+msgstr " Er du sikker på at du vil sende inn denne vurderingen? "
+
+#: views/base.html:92
+msgid " You cannot edit or delete it after you have done so. "
+msgstr " Du kan ikke redigere eller slette den etter at du har sendt den inn. "
+
+#: views/base.html:97
+msgid " Yes, the answer is correct. "
+msgstr " Ja, svaret er riktig. "
+
+#: views/base.html:99
+msgid " No, the answer is incorrect. "
+msgstr " Nei, svaret er feil. "
+
+#: views/base.html:101
+msgid " The answer is partially correct. "
+msgstr " Svaret er delvis riktig. "
+
+#: views/base.html:104
+msgid " Your score is: "
+msgstr " Poengsummen din er: "
+
+#: views/base.html:170
+msgid "Not registered"
+msgstr "Ikke registrert"
+
+#: views/base.html:175
+msgid "Logout"
+msgstr "Logg av"
+
+#: views/base.html:181
+msgid "Login"
+msgstr "Logg på"
+
+#: views/base.html:218
+msgid "Privacy & Terms"
+msgstr "Personvern og vilkår"
+
+#: views/base_course.html:44
+#, fuzzy
+msgid "Calendar"
+msgstr "Kalender"
+
+#: views/base_course.html:50 views/forum.html:5
+msgid "Forum"
+msgstr "Forum"
+
+#: views/base_course.html:85
+msgid "Registration"
+msgstr "Registrering"
+
+#: views/calendar.html:4
+#, fuzzy
+msgid " Calendar "
+msgstr "Kalender"
+
+#: views/course.html:6
+msgid ""
+"Thank you for registering for the course. Click the Announcements tab for"
+" important information."
+msgstr ""
+"Takk for at du meldte deg på kurset. Klikk på Kunngjøringer-fanen for "
+"viktig informasjon."
+
+#: views/course.html:12
+msgid "Registrations for this course are not open."
+msgstr "Påmelding til dette kurset er ikke mulig."
+
+#: views/course.html:37 views/preview.html:22
+msgid "Schedule"
+msgstr "Kursplan"
+
+#: views/course.html:49 views/course.html:50 views/course.html:77
+#: views/course.html:78 views/course.html:119 views/course.html:120
+#: views/lesson_navbar.html:15 views/lesson_navbar.html:16
+#: views/lesson_navbar.html:62 views/lesson_navbar.html:63
+#: views/review_dashboard.html:49 views/student_data_table.html:40
+msgid "Completed"
+msgstr "Fullført"
+
+#: views/course.html:55 views/course.html:56 views/course.html:89
+#: views/course.html:90
+msgid "Not yet submitted"
+msgstr "Ennå ikke levert"
+
+#: views/course.html:83 views/course.html:84 views/course.html:125
+#: views/course.html:126 views/lesson_navbar.html:21
+#: views/lesson_navbar.html:22 views/lesson_navbar.html:68
+#: views/lesson_navbar.html:69
+msgid "In progress"
+msgstr "Pågår"
+
+#: views/course.html:100 views/course.html:107
+#: views/reviewed_assessment_confirmation.html:30
+msgid "Review peer assignments"
+msgstr "Vurder oppgavene til andre studenter"
+
+#: views/course.html:131 views/course.html:132 views/lesson_navbar.html:27
+#: views/lesson_navbar.html:28 views/lesson_navbar.html:74
+#: views/lesson_navbar.html:75
+msgid "Not yet started"
+msgstr "Ikke startet ennå"
+
+#: views/error.html:16
+#, python-format
+msgid ""
+"Your review has not been saved, because it was submitted on %(time_now)s."
+" The deadline for submitting reviews was %(review_due_date)s."
+msgstr ""
+"Vurderingen din ble ikke lagret, fordi den ble sendt inn kl. "
+"%(time_now)s. Fristen for å sende inn vurderinger var kl. "
+"%(review_due_date)s."
+
+#: views/error.html:21
+#, python-format
+msgid ""
+"Your assignment has not been saved, because it was submitted on "
+"%(time_now)s. The deadline for submitting assignments was "
+"%(submission_due_date)s."
+msgstr ""
+"Oppgaven din ble ikke lagret, fordi den ble sendt inn kl. %(time_now)s. "
+"Fristen for innlevering av oppgaver var kl. %(submission_due_date)s."
+
+#: views/error.html:26
+msgid ""
+"You must submit the assignment for this unit before you can request new "
+"assignments to review."
+msgstr ""
+"Du må sende inn oppgaven for denne enheten før du kan be om nye oppgaver "
+"å vurdere."
+
+#: views/error.html:31
+msgid ""
+"The deadline for submitting reviews has already passed, so you cannot "
+"request a new assignment to review."
+msgstr ""
+"Fristen for innsending av vurderinger har passert, så du kan ikke be om "
+"en ny oppgave å vurdere."
+
+#: views/error.html:36
+msgid "You must complete all assigned reviews before you can request a new one."
+msgstr "Du må fullføre alle tildelte vurderinger før du kan be om en ny."
+
+#: views/error.html:41
+msgid "You have already submitted this review. Your latest review was not saved."
+msgstr ""
+"Du har allerede sendt inn denne vurderingen. Den siste vurderingen ble "
+"ikke lagret."
+
+#: views/readonly_assessment.html:31 views/readonly_assessment.html:35
+msgid "Answer:"
+msgstr "Svar:"
+
+#: views/register.html:25
+msgid "What is your name?"
+msgstr "Hva er ditt navn?"
+
+#: views/register.html:34
+msgid "What is your Title?"
+msgstr "Hva er din tittel?"
+
+#: views/register.html:43
+#, fuzzy
+msgid "What is your Institution?"
+msgstr "Hva er navnet på din organisasjon?"
+
+#: views/register.html:59
+msgid "Enroll"
+msgstr "Registrer deg"
+
+#: views/review.html:5
+msgid "Review"
+msgstr "Vurder"
+
+#: views/review.html:43
+msgid "Back to the review dashboard."
+msgstr "Tilbake til vurderingsoversikten."
+
+#: views/review.html:51
+#, python-format
+msgid ""
+"The due date for submitting this review has passed. It was due on "
+"%(review_due_date)s."
+msgstr ""
+"Fristen for å sende inn denne vurderingen har utløpt. Fristen var "
+"%(review_due_date)s."
+
+#: views/review.html:56
+msgid "Due date for this review: "
+msgstr "Frist for denne vurderingen: "
+
+#: views/review.html:65
+msgid ""
+"The scores and comments you submit here will be viewed by your peers. "
+"Once you submit your review, you may not edit it."
+msgstr ""
+"Poengene og kommentarer du sender inn kan sees av andre studenter. Når du"
+" har sendt inn en vurdering, kan du ikke endre den."
+
+#: views/review.html:73
+msgid "Reviewed assignment"
+msgstr "Vurdert oppgave"
+
+#: views/review.html:76
+msgid "Assignment to review"
+msgstr "Oppgave som må vurderes"
+
+#: views/review.html:95
+msgid "Submitted review"
+msgstr "Innsendt vurdering"
+
+#: views/review.html:109
+msgid "Review form"
+msgstr "Vurderingsskjema"
+
+#: views/review_confirmation.html:15
+msgid "Your review has been saved."
+msgstr "Vurderingen din er lagret."
+
+#: views/review_confirmation.html:18
+msgid "Your review has been submitted successfully."
+msgstr "Vurderingen din ble innsendt."
+
+#: views/review_confirmation.html:25
+msgid "Back to the review dashboard"
+msgstr "Tilbake til vurderingsoversikten"
+
+#: views/review_dashboard.html:5
+msgid "Review Dashboard"
+msgstr "Vurderingsoversikt"
+
+#: views/review_dashboard.html:16
+msgid "Assignments for your review"
+msgstr "Oppgaver du kan vurdere"
+
+#: views/review_dashboard.html:22
+msgid "The due date for submitting reviews has passed."
+msgstr "Fristen for innsending av vurderinger har utløpt."
+
+#: views/review_dashboard.html:30
+#, python-format
+msgid "All reviews are due by %(review_due_date)s."
+msgstr "Fristen for alle vurderingene er %(review_due_date)s."
+
+#: views/review_dashboard.html:34
+msgid ""
+"In order to earn credit for this assignment, you must complete at least 1"
+" review by then."
+msgstr ""
+"For å få poeng på denne oppgaven, må du fullføre minst én vurdering innen"
+" fristen."
+
+#: views/review_dashboard.html:37
+#, python-format
+msgid ""
+"In order to earn credit for this assignment, you must complete at least "
+"%(review_min_count)d reviews by then."
+msgstr ""
+"For å få poeng på denne oppgaven, må du fullføre minst "
+"%(review_min_count)d vurderinger innen fristen."
+
+#: views/review_dashboard.html:46
+#, python-format
+msgid "Assignment %(index)s"
+msgstr "Oppgave %(index)s"
+
+#: views/review_dashboard.html:52
+msgid "Draft"
+msgstr "Utkast"
+
+#: views/review_dashboard.html:69
+msgid "Review a new assignment"
+msgstr "Vurder en ny oppgave"
+
+#: views/review_dashboard.html:76
+msgid ""
+"Sorry, there are no new submissions available for you to review at this "
+"time."
+msgstr "Det er ingen nye innleveringer å vurdere for øyeblikket."
+
+#: views/reviewed_assessment_confirmation.html:16
+msgid ""
+"You have already submitted this assignment. Your latest attempt has not "
+"been saved."
+msgstr ""
+"Du har allerede sendt inn denne oppgaven. Det siste forsøket ble ikke "
+"lagret."
+
+#: views/reviewed_assessment_confirmation.html:19
+msgid ""
+"Thank you for completing this assignment. Your work was successfully "
+"submitted."
+msgstr "Takk for at du fullførte denne oppgaven. Arbeidet ditt er innsendt."
+
+#: views/reviewed_assessment_confirmation.html:23
+msgid "Review your peers' assignments by clicking on the button below."
+msgstr "Vurder andre studenters oppgaver ved å klikke på knappen nedenfor."
+
+#: views/reviewed_assessment_confirmation.html:35
+#: views/test_confirmation.html:31
+msgid "Back to Course page"
+msgstr "Tilbake til kurssiden"
+
+#: views/student_data_table.html:9
+msgid "Date enrolled"
+msgstr "Registreringsdato"
+
+#: views/student_data_table.html:28
+msgid "Assessment scores"
+msgstr "Poeng på prøven"
+
+#: views/student_data_table.html:43
+msgid "View assignment"
+msgstr "Se oppgaven"
+
+#: views/student_data_table.html:56
+msgid "Overall course score"
+msgstr "Samlede poeng for kurset"
+
+#: views/student_profile.html:5
+msgid "Course Progress"
+msgstr "Kursfremdrift"
+
+#: views/student_profile.html:17
+msgid "Student Progress"
+msgstr "Studentfremdrift"
+
+#: views/student_profile.html:46
+msgid "To leave the course permanently, click on Unenroll"
+msgstr "For å forlate kurset permanent klikker du på Avregistrer"
+
+#: views/student_profile.html:52
+msgid "Unenroll"
+msgstr "Avregistrer"
+
+#: views/student_profile.html:59
+msgid "Manage course registration from your profile"
+msgstr "Administrer kurspåmeldinger fra profilen din"
+
+#: views/student_profile.html:66
+msgid "Student profile not found ..."
+msgstr "Studentprofilen ble ikke funnet"
+
+#: views/summary.html:27 views/unit.html:108
+msgid "YouTube Video Player"
+msgstr "YouTube-videoavspilleren"
+
+#: views/unenroll_confirmation.html:16
+msgid "You have been unenrolled from "
+msgstr "Du har blitt avregistrert fra "
+
+#: views/unenroll_confirmation.html:22
+msgid "OK"
+msgstr "OK"
+
+#: views/unenroll_confirmation_check.html:16
+msgid "Are you sure you want to unenroll from "
+msgstr "Er du sikker på at du vil avregistrere deg fra "
+
+#: views/unenroll_confirmation_check.html:24
+msgid "Yes"
+msgstr "Ja"
+
+#: views/unenroll_confirmation_check.html:28
+msgid "No"
+msgstr "Nei"
+
+#: views/unit.html:97
+msgid "Grade Questions"
+msgstr "Bedøm spørsmål"
+
+#~ msgid " JavaScript should be enabled to grade this question. "
+#~ msgstr " JavaScript må være aktivert for å rangere dette spørsmålet. "
+
+#~ msgid "1 point"
+#~ msgstr "1 poeng"
+
+#~ msgid "%(points)s points"
+#~ msgstr "%(points)s poeng"
+
+#~ msgid " Hint "
+#~ msgstr " Hint "
+
+#~ msgid "Announcement"
+#~ msgstr "Kunngjøring"
+
+#~ msgid "Search"
+#~ msgstr "Søk"
+
+#~ msgid "Results for \"%(query)s\""
+#~ msgstr "Resultater for «%(query)s»"
+
+#~ msgid "Search took %(num_seconds)s seconds."
+#~ msgstr "Søket tok %(num_seconds)s sekunder."
+
+#~ msgid "Previous"
+#~ msgstr "Forrige"
+
+#~ msgid "Page %(number)s of %(total)s"
+#~ msgstr "Side %(number)s av %(total)s"
+
+#~ msgid "Next"
+#~ msgstr "Neste"
+
+#~ msgid "No results for \"%(query)s\""
+#~ msgstr "Ingen resultater for «%(query)s»"
+
+#~ msgid "Search is currently unavailable."
+#~ msgstr "Søk er for øyeblikket utilgjengelig."
+
+#~ msgid ""
+#~ msgstr ""
+
+#~ msgid "Maximum file size is 1MB."
+#~ msgstr "Maksimal filstørrelse er 1 MB."
+
+#~ msgid "Your file has been successfully uploaded."
+#~ msgstr "Filen din er lastet opp."
+
+#~ msgid "An error occurred."
+#~ msgstr "Det oppsto en feil."
+
+#~ msgid "Return to the previous page."
+#~ msgstr "Gå tilbake til forrige side."
+
+#~ msgid "Go back and try again."
+#~ msgstr "Gå tilbake og prøv på nytt."
+
+#~ msgid "Kalender"
+#~ msgstr "Kalender"
+

@@ -1,0 +1,605 @@
+# Translations template for PROJECT.
+# Copyright (C) 2013 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2013.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2013-09-14 20:55+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 1.3\n"
+
+#: modules/course_explorer/views/base_explorer.html:27
+msgid "Explore Courses"
+msgstr ""
+
+#: modules/course_explorer/views/base_explorer.html:32
+#: views/base_course.html:68
+msgid "My Courses"
+msgstr ""
+
+#: modules/course_explorer/views/base_explorer.html:37
+#: views/base_course.html:73
+msgid "Profile"
+msgstr ""
+
+#: modules/course_explorer/views/course_explorer.html:16
+#: modules/course_explorer/views/profile.html:49
+msgid "View score"
+msgstr ""
+
+#: modules/course_explorer/views/course_explorer.html:21
+msgid "Go to course"
+msgstr ""
+
+#: modules/course_explorer/views/course_explorer.html:26
+#: views/registration_module.html:7 views/registration_module.html:15
+msgid "Register"
+msgstr ""
+
+#: modules/course_explorer/views/course_explorer.html:39
+msgid "You are not currently enrolled in any courses."
+msgstr ""
+
+#: modules/course_explorer/views/course_explorer.html:45
+msgid "View course list."
+msgstr ""
+
+#: modules/course_explorer/views/profile.html:5
+msgid "Student Profile for"
+msgstr ""
+
+#: modules/course_explorer/views/profile.html:16
+#: views/student_data_table.html:21
+msgid "Name"
+msgstr ""
+
+#: modules/course_explorer/views/profile.html:21
+#: views/student_data_table.html:15
+msgid "Email"
+msgstr ""
+
+#: modules/course_explorer/views/profile.html:29
+msgid "Enrolled Courses"
+msgstr ""
+
+#: modules/course_explorer/views/profile.html:44 views/base_course.html:80
+msgid "Progress"
+msgstr ""
+
+#: modules/course_explorer/views/profile.html:54
+msgid "Withdraw"
+msgstr ""
+
+#: modules/course_explorer/views/profile.html:67 views/student_profile.html:29
+msgid "New Name"
+msgstr ""
+
+#: modules/course_explorer/views/profile.html:78 views/student_profile.html:39
+msgid "Change Name"
+msgstr ""
+
+#: views/activity.html:5 views/activity.html:29 views/unit.html:5
+#: views/unit.html:35
+msgid "Unit"
+msgstr ""
+
+#: views/activity.html:25 views/base_course.html:7 views/base_course.html:39
+#: views/unit.html:32
+msgid "Course"
+msgstr ""
+
+#: views/activity.html:34 views/unit.html:38
+msgid "Lesson"
+msgstr ""
+
+#: views/activity.html:36 views/lesson_navbar.html:85
+#: views/lesson_navbar.html:89 views/lesson_navbar.html:121
+msgid "Activity"
+msgstr ""
+
+#: views/activity.html:41 views/course.html:142 views/preview.html:34
+#: views/unit.html:44
+#, python-format
+msgid "Unit %(id)s - %(title)s"
+msgstr ""
+
+#: views/activity.html:55 views/unit.html:59
+msgid "This unit does not contain any lessons."
+msgstr ""
+
+#: views/activity.html:84 views/unit.html:83
+msgid "Text Version"
+msgstr ""
+
+#: views/activity.html:103 views/unit.html:125
+msgid "This lesson is not available."
+msgstr ""
+
+#: views/activity.html:114 views/unit.html:135
+msgid "Previous Page"
+msgstr ""
+
+#: views/activity.html:120 views/unit.html:141
+msgid "Next Page"
+msgstr ""
+
+#: views/activity.html:123 views/unit.html:144
+msgid "End"
+msgstr ""
+
+#: views/announcements.html:5 views/base_course.html:35
+msgid "Announcements"
+msgstr ""
+
+#: views/announcements.html:25
+msgid "No announcements yet."
+msgstr ""
+
+#: views/assessment.html:5
+msgid "Assessment"
+msgstr ""
+
+#: views/assessment.html:44
+#, python-format
+msgid ""
+"The due date for submitting this assignment has passed. It was due on "
+"%(submission_due_date)s."
+msgstr ""
+
+#: views/assessment.html:49
+msgid "Due date for this assignment: "
+msgstr ""
+
+#: views/assessment.html:59
+msgid ""
+"You may only submit this assignment once. After you submit it, the "
+"assignment will become read-only, and you will not be able to modify your"
+" answers. The answers you submit here will be reviewed by your peers."
+msgstr ""
+
+#: views/assessment.html:73
+msgid "Submitted assignment"
+msgstr ""
+
+#: views/assessment.html:88
+msgid "Reviews received"
+msgstr ""
+
+#: views/assessment.html:95
+msgid ""
+"After you have completed the required number of peer reviews for this "
+"assignment, the reviews you have received will appear here."
+msgstr ""
+
+#: views/assessment.html:102
+msgid "Go to the review dashboard"
+msgstr ""
+
+#: views/assessment.html:107
+msgid "You have not received any peer reviews yet."
+msgstr ""
+
+#: views/assessment_html_content.html:26 views/base.html:40
+msgid " Save Draft "
+msgstr ""
+
+#: views/assessment_html_content.html:29 views/base.html:52
+msgid " Submit Review "
+msgstr ""
+
+#: views/assessment_html_content.html:37 views/base.html:28
+msgid " Check Answers "
+msgstr ""
+
+#: views/assessment_html_content.html:44 views/base.html:44
+msgid " Submit Answers "
+msgstr ""
+
+#: views/base.html:24
+msgid " Check Answer "
+msgstr ""
+
+#: views/base.html:32
+msgid " Skip and Show Answer "
+msgstr ""
+
+#: views/base.html:36
+msgid " Save Answers "
+msgstr ""
+
+#: views/base.html:48
+msgid " Submit Assignment "
+msgstr ""
+
+#: views/base.html:56
+msgid " Please click one of the buttons for your answer. "
+msgstr ""
+
+#: views/base.html:60
+msgid " All your answers are correct! "
+msgstr ""
+
+#: views/base.html:64
+msgid " Number of questions you answered correctly "
+msgstr ""
+
+#: views/base.html:68
+msgid " You received a score on this assessment of "
+msgstr ""
+
+#: views/base.html:72
+msgid " Here are lessons you could review to improve your score "
+msgstr ""
+
+#: views/base.html:76
+msgid ""
+" Congratulations! Press the \\'Submit Answers\\' button to submit your "
+"grade. "
+msgstr ""
+
+#: views/base.html:80
+msgid ""
+" Press the \\'Submit Answers\\' button below to save your scores. You can"
+" also edit your answers above before clicking \\'Submit Answers\\'. "
+msgstr ""
+
+#: views/base.html:84
+msgid " Are you sure you want to submit this assignment? "
+msgstr ""
+
+#: views/base.html:88
+msgid " Are you sure you want to submit this review? "
+msgstr ""
+
+#: views/base.html:92
+msgid " You cannot edit or delete it after you have done so. "
+msgstr ""
+
+#: views/base.html:97
+msgid " Yes, the answer is correct. "
+msgstr ""
+
+#: views/base.html:99
+msgid " No, the answer is incorrect. "
+msgstr ""
+
+#: views/base.html:101
+msgid " The answer is partially correct. "
+msgstr ""
+
+#: views/base.html:104
+msgid " Your score is: "
+msgstr ""
+
+#: views/base.html:170
+msgid "Not registered"
+msgstr ""
+
+#: views/base.html:175
+msgid "Logout"
+msgstr ""
+
+#: views/base.html:181
+msgid "Login"
+msgstr ""
+
+#: views/base.html:218
+msgid "Privacy & Terms"
+msgstr ""
+
+#: views/base_course.html:44
+msgid "Calendar"
+msgstr ""
+
+#: views/base_course.html:50 views/forum.html:5
+msgid "Forum"
+msgstr ""
+
+#: views/base_course.html:85
+msgid "Registration"
+msgstr ""
+
+#: views/calendar.html:4
+msgid " Calendar "
+msgstr ""
+
+#: views/course.html:6
+msgid ""
+"Thank you for registering for the course. Click the Announcements tab for"
+" important information."
+msgstr ""
+
+#: views/course.html:12
+msgid "Registrations for this course are not open."
+msgstr ""
+
+#: views/course.html:37 views/preview.html:22
+msgid "Schedule"
+msgstr ""
+
+#: views/course.html:49 views/course.html:50 views/course.html:77
+#: views/course.html:78 views/course.html:119 views/course.html:120
+#: views/lesson_navbar.html:15 views/lesson_navbar.html:16
+#: views/lesson_navbar.html:62 views/lesson_navbar.html:63
+#: views/review_dashboard.html:49 views/student_data_table.html:40
+msgid "Completed"
+msgstr ""
+
+#: views/course.html:55 views/course.html:56 views/course.html:89
+#: views/course.html:90
+msgid "Not yet submitted"
+msgstr ""
+
+#: views/course.html:83 views/course.html:84 views/course.html:125
+#: views/course.html:126 views/lesson_navbar.html:21
+#: views/lesson_navbar.html:22 views/lesson_navbar.html:68
+#: views/lesson_navbar.html:69
+msgid "In progress"
+msgstr ""
+
+#: views/course.html:100 views/course.html:107
+#: views/reviewed_assessment_confirmation.html:30
+msgid "Review peer assignments"
+msgstr ""
+
+#: views/course.html:131 views/course.html:132 views/lesson_navbar.html:27
+#: views/lesson_navbar.html:28 views/lesson_navbar.html:74
+#: views/lesson_navbar.html:75
+msgid "Not yet started"
+msgstr ""
+
+#: views/error.html:16
+#, python-format
+msgid ""
+"Your review has not been saved, because it was submitted on %(time_now)s."
+" The deadline for submitting reviews was %(review_due_date)s."
+msgstr ""
+
+#: views/error.html:21
+#, python-format
+msgid ""
+"Your assignment has not been saved, because it was submitted on "
+"%(time_now)s. The deadline for submitting assignments was "
+"%(submission_due_date)s."
+msgstr ""
+
+#: views/error.html:26
+msgid ""
+"You must submit the assignment for this unit before you can request new "
+"assignments to review."
+msgstr ""
+
+#: views/error.html:31
+msgid ""
+"The deadline for submitting reviews has already passed, so you cannot "
+"request a new assignment to review."
+msgstr ""
+
+#: views/error.html:36
+msgid "You must complete all assigned reviews before you can request a new one."
+msgstr ""
+
+#: views/error.html:41
+msgid "You have already submitted this review. Your latest review was not saved."
+msgstr ""
+
+#: views/readonly_assessment.html:31 views/readonly_assessment.html:35
+msgid "Answer:"
+msgstr ""
+
+#: views/register.html:25
+msgid "What is your name?"
+msgstr ""
+
+#: views/register.html:34
+msgid "What is your Title?"
+msgstr ""
+
+#: views/register.html:43
+msgid "What is your Institution?"
+msgstr ""
+
+#: views/register.html:59
+msgid "Enroll"
+msgstr ""
+
+#: views/review.html:5
+msgid "Review"
+msgstr ""
+
+#: views/review.html:43
+msgid "Back to the review dashboard."
+msgstr ""
+
+#: views/review.html:51
+#, python-format
+msgid ""
+"The due date for submitting this review has passed. It was due on "
+"%(review_due_date)s."
+msgstr ""
+
+#: views/review.html:56
+msgid "Due date for this review: "
+msgstr ""
+
+#: views/review.html:65
+msgid ""
+"The scores and comments you submit here will be viewed by your peers. "
+"Once you submit your review, you may not edit it."
+msgstr ""
+
+#: views/review.html:73
+msgid "Reviewed assignment"
+msgstr ""
+
+#: views/review.html:76
+msgid "Assignment to review"
+msgstr ""
+
+#: views/review.html:95
+msgid "Submitted review"
+msgstr ""
+
+#: views/review.html:109
+msgid "Review form"
+msgstr ""
+
+#: views/review_confirmation.html:15
+msgid "Your review has been saved."
+msgstr ""
+
+#: views/review_confirmation.html:18
+msgid "Your review has been submitted successfully."
+msgstr ""
+
+#: views/review_confirmation.html:25
+msgid "Back to the review dashboard"
+msgstr ""
+
+#: views/review_dashboard.html:5
+msgid "Review Dashboard"
+msgstr ""
+
+#: views/review_dashboard.html:16
+msgid "Assignments for your review"
+msgstr ""
+
+#: views/review_dashboard.html:22
+msgid "The due date for submitting reviews has passed."
+msgstr ""
+
+#: views/review_dashboard.html:30
+#, python-format
+msgid "All reviews are due by %(review_due_date)s."
+msgstr ""
+
+#: views/review_dashboard.html:34
+msgid ""
+"In order to earn credit for this assignment, you must complete at least 1"
+" review by then."
+msgstr ""
+
+#: views/review_dashboard.html:37
+#, python-format
+msgid ""
+"In order to earn credit for this assignment, you must complete at least "
+"%(review_min_count)d reviews by then."
+msgstr ""
+
+#: views/review_dashboard.html:46
+#, python-format
+msgid "Assignment %(index)s"
+msgstr ""
+
+#: views/review_dashboard.html:52
+msgid "Draft"
+msgstr ""
+
+#: views/review_dashboard.html:69
+msgid "Review a new assignment"
+msgstr ""
+
+#: views/review_dashboard.html:76
+msgid ""
+"Sorry, there are no new submissions available for you to review at this "
+"time."
+msgstr ""
+
+#: views/reviewed_assessment_confirmation.html:16
+msgid ""
+"You have already submitted this assignment. Your latest attempt has not "
+"been saved."
+msgstr ""
+
+#: views/reviewed_assessment_confirmation.html:19
+msgid ""
+"Thank you for completing this assignment. Your work was successfully "
+"submitted."
+msgstr ""
+
+#: views/reviewed_assessment_confirmation.html:23
+msgid "Review your peers' assignments by clicking on the button below."
+msgstr ""
+
+#: views/reviewed_assessment_confirmation.html:35
+#: views/test_confirmation.html:31
+msgid "Back to Course page"
+msgstr ""
+
+#: views/student_data_table.html:9
+msgid "Date enrolled"
+msgstr ""
+
+#: views/student_data_table.html:28
+msgid "Assessment scores"
+msgstr ""
+
+#: views/student_data_table.html:43
+msgid "View assignment"
+msgstr ""
+
+#: views/student_data_table.html:56
+msgid "Overall course score"
+msgstr ""
+
+#: views/student_profile.html:5
+msgid "Course Progress"
+msgstr ""
+
+#: views/student_profile.html:17
+msgid "Student Progress"
+msgstr ""
+
+#: views/student_profile.html:46
+msgid "To leave the course permanently, click on Unenroll"
+msgstr ""
+
+#: views/student_profile.html:52
+msgid "Unenroll"
+msgstr ""
+
+#: views/student_profile.html:59
+msgid "Manage course registration from your profile"
+msgstr ""
+
+#: views/student_profile.html:66
+msgid "Student profile not found ..."
+msgstr ""
+
+#: views/summary.html:27 views/unit.html:108
+msgid "YouTube Video Player"
+msgstr ""
+
+#: views/unenroll_confirmation.html:16
+msgid "You have been unenrolled from "
+msgstr ""
+
+#: views/unenroll_confirmation.html:22
+msgid "OK"
+msgstr ""
+
+#: views/unenroll_confirmation_check.html:16
+msgid "Are you sure you want to unenroll from "
+msgstr ""
+
+#: views/unenroll_confirmation_check.html:24
+msgid "Yes"
+msgstr ""
+
+#: views/unenroll_confirmation_check.html:28
+msgid "No"
+msgstr ""
+
+#: views/unit.html:97
+msgid "Grade Questions"
+msgstr ""
+
